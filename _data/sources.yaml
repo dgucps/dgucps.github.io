@@ -1,23 +1,16 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: 10.1109/TII.2022.3200598
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  date: 2023-04-1
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9424/10081096/9864249/seok9-3200598-large.gif
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
+      link: https://ieeexplore.ieee.org/abstract/document/9864249
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Digital twin
+    - Veriifcation
+    - time Petri net
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: 10.1109/ISPACS57703.2022.10082830
+- id: https://doi.org/10.1145/3518997.3531024
+  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsigsim.acm.org%2Fconf%2Fpads%2F2023%2F&psig=AOvVaw2PPRyI3LA9jcQ1yYAqZi7q&ust=1683921190232000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMD097SF7v4CFQAAAAAdAAAAABAE
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
