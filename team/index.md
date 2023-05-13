@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 4
   tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-:bell:  We just opened our lab this year, and we look forward to creative and challenging students' applications. 
+:bell: &nbsp; We just opened our lab this year, and we look forward to creative and challenging students' applications. 
 
 {% include section.html %}
 

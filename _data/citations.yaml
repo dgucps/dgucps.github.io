@@ -25,7 +25,7 @@
     Systems (ISPACS)
   date: '2022-11-22'
   link: https://doi.org/gr75hv
-  image: images/ieee_icon.png
+  image: pubimages/ieee_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3518997.3531024
@@ -40,7 +40,7 @@
     Discrete Simulation
   date: '2022-06-10'
   link: https://doi.org/10.1145/3518997.3531024
-  image: images/pads_icon.png
+  image: pubimages/pads_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://dx.doi.org/10.2139/ssrn.4072423
@@ -50,7 +50,7 @@
   - Wen Jun Tan
   - Moon Gi Seok
   - Wentong Cai
-  publisher: 'SSRN'
+  publisher: ''
   date: '2022-04-01'
   link: https://papers.ssrn.com/abstract=4072423
   plugin: sources.py
@@ -66,7 +66,7 @@
     Workshops (IPDPSW)
   date: '2021-06-01'
   link: https://doi.org/10.1109/IPDPSW52791.2021.00015
-  image: images/ipdps_2022_icon.png
+  image: pubimages/ipdps_2022_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1587/transele.2020LHP0001
@@ -79,7 +79,7 @@
   publisher: IEICE Transactions on Electronics
   date: '2021-06-01'
   link: https://doi.org/gr75kz
-  image: images/ieice_icon.png
+  image: pubimages/ieice_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1109/ACCESS.2021.3073618
@@ -92,7 +92,7 @@
   publisher: IEEE Access
   date: '2021-01-01'
   link: https://doi.org/10.1109/ACCESS.2021.3073618
-  image: images/access_mmdc.png
+  image: pubimages/access_mmdc.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.3745/JIPS.01.0064
@@ -118,7 +118,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/10.1109/ACCESS.2020.3022275
-  image: images/access_hi.png
+  image: pubimages/access_hi.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3384441.3395982
@@ -134,7 +134,7 @@
     Discrete Simulation
   date: '2020-06-15'
   link: https://doi.org/10.1145/3384441.3395982
-  image: images/pads_icon.png
+  image: pubimages/pads_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.22360/SpringSim.2020.TMS.005
@@ -159,7 +159,7 @@
   publisher: 2020 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS)
   date: '2020-04-01'
   link: https://doi.org/10.1109/COOLCHIPS49199.2020.9097638
-  image: images/coolchip_icon.png
+  image: pubimages/coolchip_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.3745/JIPS.01.0060
@@ -184,7 +184,7 @@
   publisher: IEEE Access
   date: '2020-01-01'
   link: https://doi.org/10.1109/ACCESS.2019.2962253
-  image: images/access_noc.png
+  image: pubimages/access_noc.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1145/3287624.3287648
@@ -197,7 +197,7 @@
   publisher: Proceedings of the 24th Asia and South Pacific Design Automation Conference
   date: '2019-01-21'
   link: https://doi.org/10.1145/3287624.3287648
-  image: images/aspdac_icon.png
+  image: pubimages/aspdac_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/978-981-13-2853-4_5
@@ -220,7 +220,7 @@
   publisher: Journal of Ambient Intelligence and Humanized Computing
   date: '2018-07-25'
   link: https://doi.org/10.1007/s12652-018-0943-8
-  image: images/jaihc.png
+  image: pubimages/jaihc.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/978-981-10-7605-3_121
@@ -260,7 +260,7 @@
   publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
   date: '2017-02-01'
   link: https://doi.org/10.1109/TVLSI.2016.2594948
-  image: images/tvlsi17_icon.png
+  image: pubimages/tvlsi17_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1109/MCSE.2016.76
@@ -273,7 +273,7 @@
   publisher: Computing in Science & Engineering
   date: '2016-07-01'
   link: https://doi.org/10.1109/MCSE.2016.76
-  image: images/cise_icon.png
+  image: pubimages/cise_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1587/elex.13.20160808
@@ -286,7 +286,7 @@
   publisher: IEICE Electronics Express
   date: '2016-01-01'
   link: https://doi.org/10.1587/elex.13.20160808
-  image: images/ieice_icon.png
+  image: pubimages/ieice_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1504/IJSPM.2015.070462
@@ -314,17 +314,13 @@
   publisher: 2014 22nd International Conference on Very Large Scale Integration (VLSI-SoC)
   date: '2014-10-01'
   link: https://doi.org/10.1109/VLSI-SoC.2014.7004185
-  images: images/vlsi_soc_icon.png
+  pubimages: pubimages/vlsi_soc_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1177/1548512910389483
   title: Interoperation between Engagement-and Engineering-level Models for Effectiveness
     Analyses
-  authors:
-    - Jeong Hee Hong
-    - Kyung Min Seo
-    - Moon Gi Seok
-    - Tag Gon Kim
+  authors: []
   publisher: 'The Journal of Defense Modeling and Simulation: Applications, Methodology,
     Technology'
   date: '2011-07-01'
@@ -339,7 +335,7 @@
   - Wen Jun Tan
   - Moon Gi Seok
   - Wentong Cai
-  publisher: 'SSRN'
+  publisher: ''
   date: '2023-01-17'
   link: https://papers.ssrn.com/abstract=4326592
   plugin: sources.py

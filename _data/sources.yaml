@@ -3,67 +3,67 @@
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9424/10081096/9864249/seok9-3200598-large.gif
 
 - id: 10.1109/ISPACS57703.2022.10082830
-  image: images/ieee_icon.png
+  image: pubimages/ieee_icon.png
 
 - id: https://doi.org/10.1145/3518997.3531024
-  image: images/pads_icon.png
+  image: pubimages/pads_icon.png
 
 
 - id: https://doi.org/10.1145/3518997.3531024
-  image: images/pads_icon.png
+  image: pubimages/pads_icon.png
 
 
 - id: https://dx.doi.org/10.2139/ssrn.4072423
 
 - id: https://doi.org/10.1109/IPDPSW52791.2021.00015
-  image: images/ipdps_2022_icon.png
+  image: pubimages/ipdps_2022_icon.png
 
 - id: 10.1587/transele.2020LHP0001
-  image: images/ieice_icon.png
+  image: pubimages/ieice_icon.png
 
 - id: https://doi.org/10.1109/ACCESS.2021.3073618
-  image: images/access_mmdc.png
+  image: pubimages/access_mmdc.png
 
 - id: https://doi.org/10.3745/JIPS.01.0064
 - id: https://doi.org/10.1109/ACCESS.2020.3022275
-  image: images/access_hi.png
+  image: pubimages/access_hi.png
 
 - id: https://doi.org/10.1145/3384441.3395982
-  image: images/pads_icon.png
+  image: pubimages/pads_icon.png
 
 - id: https://doi.org/10.22360/SpringSim.2020.TMS.005
 - id: https://doi.org/10.1109/COOLCHIPS49199.2020.9097638
-  image: images/coolchip_icon.png
+  image: pubimages/coolchip_icon.png
 
 - id: https://doi.org/10.3745/JIPS.01.0060
 
 - id: https://doi.org/10.1109/ACCESS.2019.2962253
-  image: images/access_noc.png
+  image: pubimages/access_noc.png
 
 
 - id: https://doi.org/10.1145/3287624.3287648
-  image: images/aspdac_icon.png
+  image: pubimages/aspdac_icon.png
 
 - id: https://doi.org/10.1007/978-981-13-2853-4_5
 - id: https://doi.org/10.1007/s12652-018-0943-8
-  image: images/jaihc.png
+  image: pubimages/jaihc.png
 
 - id: https://doi.org/10.1007/978-981-10-7605-3_121
 
 - id: https://doi.org/10.1166/asl.2017.8601
 - id: https://doi.org/10.1109/TVLSI.2016.2594948
-  image: images/tvlsi17_icon.png
+  image: pubimages/tvlsi17_icon.png
 
 
 - id: https://doi.org/10.1109/MCSE.2016.76
-  image: images/cise_icon.png
+  image: pubimages/cise_icon.png
 
 - id: https://doi.org/10.1587/elex.13.20160808
-  image: images/ieice_icon.png
+  image: pubimages/ieice_icon.png
 
 - id: https://doi.org/10.1504/IJSPM.2015.070462
 - id: https://doi.org/10.1109/VLSI-SoC.2014.7004185
-  images: images/vlsi_soc_icon.png
+  pubimages: pubimages/vlsi_soc_icon.png
 
 - id: https://doi.org/10.1177/1548512910389483
 - id: https://dx.doi.org/10.2139/ssrn.4326592
