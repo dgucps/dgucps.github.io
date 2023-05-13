@@ -22,11 +22,11 @@
   image: images/ieice_icon.png
 
 - id: https://doi.org/10.1109/ACCESS.2021.3073618
-  image: images/access_icon.png
+  image: images/access_mmdc.png
 
 - id: https://doi.org/10.3745/JIPS.01.0064
 - id: https://doi.org/10.1109/ACCESS.2020.3022275
-  image: images/access_icon.png
+  image: images/access_hi.png
 
 - id: https://doi.org/10.1145/3384441.3395982
   image: images/pads_icon.png
@@ -38,7 +38,7 @@
 - id: https://doi.org/10.3745/JIPS.01.0060
 
 - id: https://doi.org/10.1109/ACCESS.2019.2962253
-  image: images/access_icon.png
+  image: images/access_noc.png
 
 
 - id: https://doi.org/10.1145/3287624.3287648
@@ -52,7 +52,7 @@
 
 - id: https://doi.org/10.1166/asl.2017.8601
 - id: https://doi.org/10.1109/TVLSI.2016.2594948
-  image: images/tvlsi_icon.png
+  image: images/tvlsi17_icon.png
 
 
 - id: https://doi.org/10.1109/MCSE.2016.76
