@@ -1,10 +1,13 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: LLVM Backend Application for Digital Simulation Acceleration  
+author: Moon Gi Seok
 tags:
-  - biology
-  - medicine
-  - big data
+  - LLVM
+  - Verilog
+  - Simulation Acceleration
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Related Works
+
+- LLVM-C2RTL: C/C++ Based System Level RTL Design Framework Using LLVM Compiler Infrastructure
