@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Moon Gi Seok
+image: images/mgseok.jpeg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - Moon 
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  google-scholar: https://scholar.google.com/citations?user=uCMsRysAAAAJ&hl=en
+  orcid: 0000-0002-8159-9910
+  mail: mgseok@dgu.ac.kr
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
