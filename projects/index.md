@@ -2,13 +2,13 @@
 title: Projects
 nav:
   order: 3
-  tooltip: Software, datasets, and more
+  tooltip: projects 
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+{% include section.html background="images/black_background.jpeg" dark=true %}
 
-{% include section.html background="images/background.jpg" dark=true %}
 
 ## 연구책임 수행 과제 (종료) 
 
