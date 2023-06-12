@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: https://doi.org/10.1145/3573900.3591112
+  title: Automatic Model Generation and Data Assimilation Framework for Cyber-Physical
+    Production Systems
+  authors:
+  - Wen Jun Tan
+  - Moon Gi Seok
+  - Wentong Cai
+  publisher: Proceedings of the 2023 ACM SIGSIM Conference on Principles of Advanced
+    Discrete Simulation
+  date: '2023-06-21'
+  link: https://doi.org/10.1145/3573900.3591112
+  image: pubimages/pads_icon.png
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/TII.2022.3200598
   title: Digital-Twin Consistency Checking Based on Observed Timed Events With Unobservable
     Transitions in Smart Manufacturing
@@ -325,18 +339,5 @@
     Technology'
   date: '2011-07-01'
   link: http://journals.sagepub.com/doi/10.1177/1548512910389483
-  plugin: sources.py
-  file: sources.yaml
-- id: https://dx.doi.org/10.2139/ssrn.4326592
-  title: Two-Stage Genetic-Based Optimization for Multiple Workflows Resource Provisioning
-    and Scheduling on Cloud Under Resource Constraints
-  authors:
-  - Feng Li
-  - Wen Jun Tan
-  - Moon Gi Seok
-  - Wentong Cai
-  publisher: ''
-  date: '2023-01-17'
-  link: https://papers.ssrn.com/abstract=4326592
   plugin: sources.py
   file: sources.yaml

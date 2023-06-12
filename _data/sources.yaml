@@ -1,3 +1,6 @@
+- id: https://doi.org/10.1145/3573900.3591112
+  image: pubimages/pads_icon.png
+
 - id: 10.1109/TII.2022.3200598
   date: 2023-04-1
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9424/10081096/9864249/seok9-3200598-large.gif
@@ -66,7 +69,6 @@
   pubimages: pubimages/vlsi_soc_icon.png
 
 - id: https://doi.org/10.1177/1548512910389483
-- id: https://dx.doi.org/10.2139/ssrn.4326592
 
 
 
