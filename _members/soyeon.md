@@ -1,16 +1,16 @@
 ---
-name: Yun Seong Kim
+name: So Yeon Lee
 #image: images/donghee.jpeg
 role: undergrad
 aliases:
-  - Yunseong 
+  - SoYeon
 links:
-  mail: kys5037k@naver.com
+  mail: panda_g02@naver.com
 ---
 
 ## Research Interest
 
-AI, embedded system, model-predictive control
+AI, embedded system, federated learning.
 
 ## Career
 

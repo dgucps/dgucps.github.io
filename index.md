@@ -4,14 +4,14 @@
 # ABOUT US
 
 
-Cyber-Physical System (CPS) integrates physical components with networking, monitoring, and control systems.
-CPS combines the physical and digital worlds, allowing them to interact and collaborate with each other and with humans.
-We aim to develop next-generation theory, design tools, and applications for monitoring and controlling units in CPS.
-For that, with **AI technologies**, our approaches include
-- model-based design,
+**Cyber-Physical System (CPS)** integrates physical components 
+(e.g., <span style="color:blue">robots, embedded devices</span>) with digital technologies for networking and control, enabling interaction and collaboration between the physical and digital worlds.
+We aim to develop next-generation <u>theory, design tools, and applications</u> to monitor and control units in CPS.
+Using **AI technologies**, our approaches include:
+- embedded system design,
 - simulation-based optimization,
-- high-performance computing, and
-- distributed control.
+- high-performance or cloud computing, and
+- model-predictive control.
 
 {% include section.html %}
 

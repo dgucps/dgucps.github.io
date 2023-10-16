@@ -1,16 +1,16 @@
 ---
-name: Yun Seong Kim
+name: Min Jun Jo
 #image: images/donghee.jpeg
 role: undergrad
 aliases:
-  - Yunseong 
+  - MinJun
 links:
-  mail: kys5037k@naver.com
+  mail: wayou0822@gmail.com
 ---
 
 ## Research Interest
 
-AI, embedded system, model-predictive control
+AI, cloud computing.
 
 ## Career
 
