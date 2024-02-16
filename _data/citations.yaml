@@ -1,17 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: https://doi.org/10.1145/3573900.3591112
+- id: 10.1109/ACCESS.2023.3337832
+  title: Genetic-Based Two Granularity Ordering Methods for Multiple Workflow Scheduling
+  authors:
+  - Feng Li
+  - Wen Jun Tan
+  - Moon Gi Seok
+  - Wentong Cai
+  publisher: IEEE Access
+  date: '2024-01-05'
+  link: https://doi.org/gthr6j
+  image: images/Publications/ieee_access.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/ACCESS.2023.3317283
+  title: Practical Simulation Budget Allocation for Ranked Subset Partitioning
+  authors:
+  - Moon Gi Seok
+  - Seon Han Choi
+  publisher: IEEE Access
+  date: '2023-09-23'
+  link: https://doi.org/gthr5k
+  image: images/Publications/ieee_access.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3573900.3591112
   title: Automatic Model Generation and Data Assimilation Framework for Cyber-Physical
     Production Systems
   authors:
   - Wen Jun Tan
   - Moon Gi Seok
   - Wentong Cai
-  publisher: Proceedings of the 2023 ACM SIGSIM Conference on Principles of Advanced
-    Discrete Simulation
+  publisher: ACM SIGSIM Conference on Principles of Advanced Discrete Simulation
   date: '2023-06-21'
-  link: https://doi.org/10.1145/3573900.3591112
-  image: pubimages/pads_icon.png
+  link: https://doi.org/mgkw
+  image: images/Publications/pads_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TII.2022.3200598
@@ -39,10 +62,10 @@
     Systems (ISPACS)
   date: '2022-11-22'
   link: https://doi.org/gr75hv
-  image: pubimages/ieee_icon.png
+  image: images/Publications/ieee_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1145/3518997.3531024
+- id: 10.1145/3518997.3531024
   title: Hyperparameter Tunning in Simulation-based Optimization for Adaptive Digital-Twin
     Abstraction Control of Smart Manufacturing System
   authors:
@@ -52,9 +75,9 @@
   - Wentong Cai
   publisher: Proceedings of the 2022 ACM SIGSIM Conference on Principles of Advanced
     Discrete Simulation
-  date: '2022-06-10'
-  link: https://doi.org/10.1145/3518997.3531024
-  image: pubimages/pads_icon.png
+  date: '2022-06-08'
+  link: https://doi.org/gthr5m
+  image: images/Publications/pads_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://dx.doi.org/10.2139/ssrn.4072423
@@ -64,12 +87,12 @@
   - Wen Jun Tan
   - Moon Gi Seok
   - Wentong Cai
-  publisher: ''
-  date: '2022-04-01'
-  link: https://papers.ssrn.com/abstract=4072423
+  publisher: SSRN Electronic Journal
+  date: '2022-01-01'
+  link: https://www.ssrn.com/abstract=4072423
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/IPDPSW52791.2021.00015
+- id: 10.1109/IPDPSW52791.2021.00015
   title: A New Double Rank-based Multi-workflow Scheduling with Multi-objective Optimization
     in Cloud Environments
   authors:
@@ -79,8 +102,8 @@
   publisher: 2021 IEEE International Parallel and Distributed Processing Symposium
     Workshops (IPDPSW)
   date: '2021-06-01'
-  link: https://doi.org/10.1109/IPDPSW52791.2021.00015
-  image: pubimages/ipdps_2022_icon.png
+  link: https://doi.org/gthr5n
+  image: images/Publications/ipdps_2022_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: 10.1587/transele.2020LHP0001
@@ -93,10 +116,10 @@
   publisher: IEICE Transactions on Electronics
   date: '2021-06-01'
   link: https://doi.org/gr75kz
-  image: pubimages/ieice_icon.png
+  image: images/Publications/ieice_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/ACCESS.2021.3073618
+- id: 10.1109/ACCESS.2021.3073618
   title: Hierarchical Aggregation/Disaggregation for Adaptive Abstraction-Level Conversion
     in Digital Twin-Based Smart Semiconductor Manufacturing
   authors:
@@ -105,11 +128,11 @@
   - Daejin Park
   publisher: IEEE Access
   date: '2021-01-01'
-  link: https://doi.org/10.1109/ACCESS.2021.3073618
-  image: pubimages/access_mmdc.png
+  link: https://doi.org/gndbws
+  image: images/Publications/access_mmdc.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.3745/JIPS.01.0064
+- id: 10.3745/JIPS.01.0064
   title: On-Demand Remote Software Code Execution Unit Using On-Chip Flash Memory
     Cloudification for IoT Environment Acceleration
   authors:
@@ -117,11 +140,11 @@
   - Moon Gi Seok
   - Daejin Park
   publisher: Journal of Information Processing Systems
-  date: '2021-01-01'
-  link: http://koreascience.or.kr/article/JAKO202109651163068.page
+  date: '2021-02-28'
+  link: https://doi.org/gthr5p
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/ACCESS.2020.3022275
+- id: 10.1109/ACCESS.2020.3022275
   title: Adaptive Abstraction-Level Conversion Framework for Accelerated Discrete-Event
     Simulation in Smart Semiconductor Manufacturing
   authors:
@@ -131,11 +154,11 @@
   - Daejin Park
   publisher: IEEE Access
   date: '2020-01-01'
-  link: https://doi.org/10.1109/ACCESS.2020.3022275
-  image: pubimages/access_hi.png
+  link: https://doi.org/gh5mkg
+  image: images/Publications/access_hi.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1145/3384441.3395982
+- id: 10.1145/3384441.3395982
   title: Runtime Abstraction-Level Conversion of Discrete-Event Wafer-fabrication
     Models for Simulation Acceleration
   authors:
@@ -147,23 +170,24 @@
   publisher: Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced
     Discrete Simulation
   date: '2020-06-15'
-  link: https://doi.org/10.1145/3384441.3395982
-  image: pubimages/pads_icon.png
+  link: https://doi.org/gthr5q
+  image: images/Publications/pads_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.22360/SpringSim.2020.TMS.005
-  title: A framework for composable cellular automata DEVS modeling, simulation, and
-    visualization
+- id: 10.22360/SpringSim.2020.TMS.005
+  title: A Framework for Composable Cellular Automata Devs Modeling, Simulation, and
+    Visualization
   authors:
   - Chao Zhang
   - Hessam S. Sarjoughian
   - Moon Gi Seok
-  publisher: Proceedings of the 2020 Spring Simulation Conference
-  date: '2020-05-19'
-  link: https://doi.org/10.22360/SpringSim.2020.TMS.005
+  publisher: Spring Simulation Conference (SpringSim 2020)
+  date: '2020-01-01'
+  link: https://doi.org/gthr5r
+  image: images/Publications/scs20.jpeg
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/COOLCHIPS49199.2020.9097638
+- id: 10.1109/COOLCHIPS49199.2020.9097638
   title: User Insensible Sliding Firmware Update Technique for Flash-Area/Time-Cost
     Reduction toward Low-Power Embedded Software Replacement
   authors:
@@ -172,22 +196,22 @@
   - Daejin Park
   publisher: 2020 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS)
   date: '2020-04-01'
-  link: https://doi.org/10.1109/COOLCHIPS49199.2020.9097638
-  image: pubimages/coolchip_icon.png
+  link: https://doi.org/gthr5s
+  image: images/Publications/coolchip_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.3745/JIPS.01.0060
+- id: 10.3745/JIPS.01.0060
   title: GPU-Based ECC Decode Unit for Efficient Massive Data Reception Acceleration
   authors:
   - Jisu Kwon
   - Moon Gi Seok
   - Daejin Park
   publisher: Journal of Information Processing Systems
-  date: '2020-01-01'
-  link: http://koreascience.or.kr/article/JAKO202009651162961.page
+  date: '2020-12-31'
+  link: https://doi.org/gthr5t
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/ACCESS.2019.2962253
+- id: 10.1109/ACCESS.2019.2962253
   title: Fast and Cycle-Accurate Simulation of RTL NoC Designs Using Test-Driven Cellular
     Automata
   authors:
@@ -197,11 +221,11 @@
   - Daejin Park
   publisher: IEEE Access
   date: '2020-01-01'
-  link: https://doi.org/10.1109/ACCESS.2019.2962253
-  image: pubimages/access_noc.png
+  link: https://doi.org/gg72f3
+  image: images/Publications/access_noc.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1145/3287624.3287648
+- id: 10.1145/3287624.3287648
   title: A high-level modeling and simulation approach using test-driven cellular
     automata for fast performance analysis of RTL NoC designs
   authors:
@@ -210,34 +234,34 @@
   - Daejin Park
   publisher: Proceedings of the 24th Asia and South Pacific Design Automation Conference
   date: '2019-01-21'
-  link: https://doi.org/10.1145/3287624.3287648
-  image: pubimages/aspdac_icon.png
+  link: https://doi.org/gthr5w
+  image: images/Publications/aspdac_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1007/978-981-13-2853-4_5
+- id: 10.1007/978-981-13-2853-4_5
   title: A DEVS Visual Front-End Interface for Model Reusability and Maintainability
   authors:
   - Jiyong Yang
   - Moongi Seok
   - San Jeong
   - Changbeom Choi
-  publisher: Methods and Applications for Modeling and Simulation of Complex Systems
+  publisher: Communications in Computer and Information Science
   date: '2018-01-01'
-  link: https://doi.org/10.1007/978-981-13-2853-4_5
+  link: https://doi.org/gthr5x
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1007/s12652-018-0943-8
+- id: 10.1007/s12652-018-0943-8
   title: A novel multi-level evaluation approach for human-coupled IoT applications
   authors:
   - Moon Gi Seok
   - Daejin Park
   publisher: Journal of Ambient Intelligence and Humanized Computing
   date: '2018-07-25'
-  link: https://doi.org/10.1007/s12652-018-0943-8
-  image: pubimages/jaihc.png
+  link: https://doi.org/gthr5z
+  image: images/Publications/jaihc.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1007/978-981-10-7605-3_121
+- id: 10.1007/978-981-10-7605-3_121
   title: Maximum Stack Memory Monitoring Method Assisted by Static Analysis of the
     Stack Usage Profile
   authors:
@@ -247,11 +271,11 @@
   - Jeonghun Cho
   - Daejin Park
   publisher: Advances in Computer Science and Ubiquitous Computing
-  date: '2018-01-01'
-  link: https://doi.org/10.1007/978-981-10-7605-3_121
+  date: '2017-12-20'
+  link: https://doi.org/gthr52
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1166/asl.2017.8601
+- id: 10.1166/asl.2017.8601
   title: Parallel Simulation-Assisted On-Chip Glitch Filter Placement for Safe Microcontroller
     in Noisy Environment
   authors:
@@ -260,10 +284,10 @@
   - Daejin Park
   publisher: Advanced Science Letters
   date: '2017-03-01'
-  link: https://doi.org/10.1166/asl.2017.8601
+  link: https://doi.org/gthr53
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/TVLSI.2016.2594948
+- id: 10.1109/TVLSI.2016.2594948
   title: An HLA-Based Distributed Cosimulation Framework in Mixed-Signal System-on-Chip
     Design
   authors:
@@ -273,24 +297,24 @@
   - Daejin Park
   publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
   date: '2017-02-01'
-  link: https://doi.org/10.1109/TVLSI.2016.2594948
-  image: pubimages/tvlsi17_icon.png
+  link: https://doi.org/gthr54
+  image: images/Publications/tvlsi17_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/MCSE.2016.76
+- id: 10.1109/MCSE.2016.76
   title: A Scalable Modeling and Simulation Environment for Chemical Gas Emergencies
   authors:
   - Moon Gi Seok
   - Tag Gon Kim
   - Changbeom Choi
   - Daejin Park
-  publisher: Computing in Science & Engineering
+  publisher: Computing in Science &amp; Engineering
   date: '2016-07-01'
-  link: https://doi.org/10.1109/MCSE.2016.76
-  image: pubimages/cise_icon.png
+  link: https://doi.org/gthr55
+  image: images/Publications/cise_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1587/elex.13.20160808
+- id: 10.1587/elex.13.20160808
   title: Automatic on-chip backup clock changer for protecting abnormal MCU operations
     in unsafe clock frequency
   authors:
@@ -299,11 +323,11 @@
   - Daejin Park
   publisher: IEICE Electronics Express
   date: '2016-01-01'
-  link: https://doi.org/10.1587/elex.13.20160808
-  image: pubimages/ieice_icon.png
+  link: https://doi.org/gthr56
+  image: images/Publications/ieice_icon.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1504/IJSPM.2015.070462
+- id: 10.1504/IJSPM.2015.070462
   title: Military serious game federation development and execution process based
     on interoperation between game application and constructive simulators
   authors:
@@ -314,10 +338,10 @@
   - Soohan Kim
   publisher: International Journal of Simulation and Process Modelling
   date: '2015-01-01'
-  link: http://www.inderscience.com/link.php?id=70462
+  link: https://doi.org/gthr57
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1109/VLSI-SoC.2014.7004185
+- id: 10.1109/VLSI-SoC.2014.7004185
   title: 'Framework for simulation of the Verilog/SPICE mixed model: Interoperation
     of Verilog and SPICE simulators using HLA/RTI for model reusability'
   authors:
@@ -327,17 +351,21 @@
   - Tag Gon Kim
   publisher: 2014 22nd International Conference on Very Large Scale Integration (VLSI-SoC)
   date: '2014-10-01'
-  link: https://doi.org/10.1109/VLSI-SoC.2014.7004185
-  pubimages: pubimages/vlsi_soc_icon.png
+  link: https://doi.org/gthr58
+  image: images/Publications/IFIP_VLSISOC_logo.png
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1177/1548512910389483
+- id: 10.1177/1548512910389483
   title: Interoperation between Engagement-and Engineering-level Models for Effectiveness
     Analyses
-  authors: []
+  authors:
+  - Jeong Hee Hong
+  - Kyung Min Seo
+  - Moon Gi Seok
+  - Tag Gon Kim
   publisher: 'The Journal of Defense Modeling and Simulation: Applications, Methodology,
     Technology'
-  date: '2011-07-01'
-  link: http://journals.sagepub.com/doi/10.1177/1548512910389483
+  date: '2011-01-27'
+  link: https://doi.org/dkbbvw
   plugin: sources.py
   file: sources.yaml
