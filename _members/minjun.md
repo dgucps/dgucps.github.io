@@ -1,6 +1,6 @@
 ---
-name: Min Jun Jo
-#image: images/donghee.jpeg
+name: Min Jun Cho
+#image: images/Members/minjun.md
 role: undergrad
 aliases:
   - MinJun

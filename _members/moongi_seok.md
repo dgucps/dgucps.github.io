@@ -1,6 +1,6 @@
 ---
-name: Moon Gi Seok
-image: images/mgseok.jpeg
+name: Moon Gi Seok (석문기)
+image: images/Members/mgseok.jpeg
 role: pi
 aliases:
   - Moon
@@ -25,3 +25,7 @@ hardware/software codesign.
 
 - Postdoctoral Researcher, SMSLAB, KAIST (Prof. Tag Gon Kim), Republic of Korea, 2017-2018
 
+## Award
+
+- 2023.12 전자공학회 CEIC2013 우수논문상
+- 2023.11 한국지능시스템학회 젊은 연구자상  

@@ -16,7 +16,10 @@ nav:
 
 {% include section.html background="images/black_background.jpeg" dark=true %}
 
-Co-working Research Groups
+## Alumi
+- 강동희: 과학기술사관(ADD)
+
+## Co-working Research Groups
 
 - Prof. Tag Gon Kim (emeritus), KDTLab, KAIST Munji Campus, Korea.
 - Prof. Wentong Cai, PDCL lab. Nanyang Technological University, Singapore.

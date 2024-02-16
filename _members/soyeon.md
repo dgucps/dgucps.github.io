@@ -14,5 +14,6 @@ AI, embedded system, federated learning.
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea 
+- Undergraduate student at Dongguk University, Republic of Korea
+- An AAS-compliant Edge-Cloud Integrated Infrastructure for Efficient Data Management in Industrial IoT 작성
 
