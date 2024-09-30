@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-{% include list.html data="posts" component="post-excerpt" %}
-
 {% include section.html %}
 
 {% include search-box.html %}
