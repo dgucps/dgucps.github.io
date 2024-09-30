@@ -1,21 +1,25 @@
-- title: Federated Learning on Edge Devices
+- title: 이기종 K8S 클러스터에서 시간 민감형 IoT 작업의 적응형 스케줄링
   group: featured
   image: studyimages/fed_learning.png
   # link: research/llvm_study
-  description: (참여연구원) 이소연, 조민준
+  # description: (참여연구원) 이소연, 조민준
   # repo: greenelab/lab-website-template
 
-- title: Multi-AGV Scheduling using Reinforcement Learning
+- title: 공장 생산 향상을 위한 온라인 다중 AGV(automated Guided Vehicle) 스케줄링
   group: featured
   image: studyimages/agv_schedule.png
   # link: research/abs_study
-  description: (참여연구원) 강동희
+  # description: (참여연구원) 강동희
   # description: 여름학기 개별연구 (참여학생 6명)
 
-- title: Embedded System for Surveillance
+- title: Retargetable Edge AI 애플리케이션을 위한 HLS(High-level Synthesis) 프레임워크
   group: featured
-  image: studyimages/surveillance.jpeg
+  image: studyimages/hls.png
   # link: research/abs_study
-  description: (참여연구원) 김윤성
   # description: 여름학기 개별연구 (참여학생 6명)
 
+- title: 랜덤 지연 상황을 고려한 강화 학습 기반 분산 MPC(Model Predictive Control)
+  group: featured
+  image: studyimages/mpc_rl.png
+  # link: research/abs_study
+  # description: 여름학기 개별연구 (참여학생 6명)

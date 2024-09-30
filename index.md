@@ -24,7 +24,7 @@ Using **AI technologies**, our approaches include:
 
 # LATEST NEWS
 
-{% include post-excerpt.html lookup="24-doyoung" %}
+{% include post-excerpt.html lookup="24-koreainfo" %}
 
 {% include post-excerpt.html lookup="ceic2023" %}
 

@@ -1,6 +1,6 @@
 ---
 name: Do Young Kim (김도영)
-#image: images/donghee.jpeg
+image: images/Members/doyoung.png
 role: master
 aliases:
   - DoYoung
