@@ -22,7 +22,7 @@
   publisher: Journal of Ambient Intelligence and Humanized Computing
   date: '2024-02-01'
   link: https://doi.org/gthr5z
-  image: images/Publications/jaihc.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12652?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: 10.1145/3646549
@@ -89,7 +89,7 @@
   publisher: IEEE Transactions on Industrial Informatics
   date: '2023-04-01'
   link: https://doi.org/gr75ht
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9424/10081096/9864249/seok9-3200598-large.gif
+  image: https://www.ieee-ies.org/images/files/tii/tii-cover.png?v=2021
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/ISPACS57703.2022.10082830
@@ -183,6 +183,7 @@
   publisher: Journal of Information Processing Systems
   date: '2021-02-28'
   link: https://doi.org/gthr5p
+  image: http://koreascience.or.kr/journal/E1JBB0/v16n6/cover/thumb.image
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/ACCESS.2020.3022275
@@ -289,6 +290,7 @@
   publisher: Communications in Computer and Information Science
   date: '2018-01-01'
   link: https://doi.org/gthr5x
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-981-13-2853-4?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/978-981-10-7605-3_121
@@ -303,6 +305,7 @@
   publisher: Lecture Notes in Electrical Engineering
   date: '2017-12-20'
   link: https://doi.org/gthr52
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-981-10-7605-3?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: 10.1166/asl.2017.8601
@@ -315,6 +318,7 @@
   publisher: Advanced Science Letters
   date: '2017-03-01'
   link: https://doi.org/gthr53
+  image: https://www.ingentaconnect.com/images/journal-logos/asp/asl.gif
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TVLSI.2016.2594948
@@ -328,7 +332,7 @@
   publisher: IEEE Transactions on Very Large Scale Integration (VLSI) Systems
   date: '2017-02-01'
   link: https://doi.org/gthr54
-  image: images/Publications/tvlsi17_icon.png
+  image: https://ieee-cas.org/files/ieeecass/styles/responsive_3_4_1280w/public/images/publications/TVLSI-reduced.jpg.webp?itok=-4gkf7wU
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/MCSE.2016.76

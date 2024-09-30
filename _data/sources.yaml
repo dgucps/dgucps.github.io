@@ -5,7 +5,7 @@
 
 - id: 10.1007/s12652-018-0943-8
   date: 2024-2-1
-  image: images/Publications/jaihc.png
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12652?as=webp
 
 - id: 10.1145/3646549
   date: 2024-2-17
@@ -24,7 +24,7 @@
 
 - id: 10.1109/TII.2022.3200598
   date: 2023-04-1
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9424/10081096/9864249/seok9-3200598-large.gif
+  image: https://www.ieee-ies.org/images/files/tii/tii-cover.png?v=2021
 
 - id: 10.1109/ISPACS57703.2022.10082830
   image: images/Publications/ieee_icon.png
@@ -47,6 +47,8 @@
   image: images/Publications/access_mmdc.png
 
 - id: 10.3745/JIPS.01.0064
+  image: http://koreascience.or.kr/journal/E1JBB0/v16n6/cover/thumb.image
+
 - id: 10.1109/ACCESS.2020.3022275
   image: images/Publications/access_hi.png
 
@@ -73,13 +75,17 @@
   image: images/Publications/aspdac_icon.png
 
 - id: 10.1007/978-981-13-2853-4_5
-
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-981-13-2853-4?as=webp
 
 - id: 10.1007/978-981-10-7605-3_121
+  image: https://media.springernature.com/w316/springer-static/cover-hires/book/978-981-10-7605-3?as=webp
 
 - id: 10.1166/asl.2017.8601
+  image: https://www.ingentaconnect.com/images/journal-logos/asp/asl.gif
+
+
 - id: 10.1109/TVLSI.2016.2594948
-  image: images/Publications/tvlsi17_icon.png
+  image: https://ieee-cas.org/files/ieeecass/styles/responsive_3_4_1280w/public/images/publications/TVLSI-reduced.jpg.webp?itok=-4gkf7wU
 
 
 - id: 10.1109/MCSE.2016.76
