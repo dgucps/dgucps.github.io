@@ -1,6 +1,7 @@
 import json
 from urllib.request import Request, urlopen
 from util import *
+from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
 
 
 def main(entry):
@@ -14,7 +15,7 @@ def main(entry):
     headers = {"Accept": "application/json"}
 
     # get id from entry
-    _id = entry.get("orcid", "")
+    _id = get_safe(entry, "orcid", "")
     if not _id:
         raise Exception('No "orcid" key')
 
@@ -25,7 +26,7 @@ def main(entry):
         url = endpoint.replace("$ORCID", _id)
         request = Request(url=url, headers=headers)
         response = json.loads(urlopen(request).read())
-        return response.get("group", [])
+        return get_safe(response, "group", [])
 
     response = query(_id)
 
@@ -35,62 +36,59 @@ def main(entry):
     # go through response structure and pull out ids e.g. doi:1234/56789
     for work in response:
         # get list of ids
-        ids = work.get("external-ids", {}).get("external-id", [])
-        for summary in work.get("work-summary", []):
-            ids = ids + summary.get("external-ids", {}).get("external-id", [])
+        ids = []
+        for summary in get_safe(work, "work-summary", []):
+            ids = ids + get_safe(summary, "external-ids.external-id", [])
 
-        # prefer doi id type, or fallback to first id
+        # find first id of particular "relationship" type
         _id = next(
-            (id for id in ids if id.get("external-id-type", "") == "doi"),
-            ids[0] if len(ids) > 0 else {},
+            (
+                id
+                for id in ids
+                if get_safe(id, "external-id-relationship", "")
+                in ["self", "version-of", "part-of"]
+            ),
+            ids[0] if len(ids) > 0 else None,
         )
 
+        if _id == None:
+            continue
+
         # get id and id-type from response
-        id_type = _id.get("external-id-type", "")
-        id_value = _id.get("external-id-value", "")
+        id_type = get_safe(_id, "external-id-type", "")
+        id_value = get_safe(_id, "external-id-value", "")
 
         # create source
         source = {"id": f"{id_type}:{id_value}"}
 
-        # if not a doi, Manubot likely can't cite, so keep citation details
-        if id_type != "doi":
+        # if not an id type that Manubot can cite, keep citation details
+        if id_type not in manubot_prefixes:
             # get summaries
-            summaries = work.get("work-summary", [])
-
-            # sort summary entries by most recent
-            summaries = sorted(
-                summaries,
-                key=lambda summary: (
-                    summary.get("last-modified-date", {}).get("value", 0)
-                )
-                or summary.get("created-date", {}).get("value", 0)
-                or 0,
-                reverse=True,
-            )
+            summaries = get_safe(work, "work-summary", [])
 
             # get first summary with defined sub-value
             def first(get_func):
-                return next(value for value in map(get_func, summaries) if value)
+                return next(
+                    (value for value in map(get_func, summaries) if value), None
+                )
 
             # get title
-            title = first(
-                lambda s: s.get("title", {}).get("title", {}).get("value", "")
-            )
+            title = first(lambda s: get_safe(s, "title.title.value", ""))
 
             # get publisher
-            publisher = first(lambda s: s.get("journal-title", {}).get("value", ""))
+            publisher = first(lambda s: get_safe(s, "journal-title.value", ""))
 
             # get date
             date = (
-                work.get("last-modified-date", {}).get("value", 0)
-                or first(lambda s: s.get("last-modified-date", {}).get("value", 0))
-                or work.get("created-date", {}).get("value", 0)
-                or first(lambda s: s.get("created-date", {}).get("value", 0))
+                get_safe(work, "last-modified-date.value")
+                or first(lambda s: get_safe(s, "last-modified-date.value"))
+                or get_safe(work, "created-date.value")
+                or first(lambda s: get_safe(s, "created-date.value"))
                 or 0
             )
 
             # get link
-            link = first(lambda s: s.get("url", {}).get("value", ""))
+            link = first(lambda s: get_safe(s, "url.value", ""))
 
             # keep available details
             if title:

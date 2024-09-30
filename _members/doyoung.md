@@ -10,7 +10,7 @@ links:
 
 ## Research Interest
 
-AI, multi-agent systems.
+Reinforcement Learning, multi-agent systems. AGV Scheduling, Smart Factory
 
 ## Career
 - Graduated from Dongguk University with an undergraduate degree and currently pursuing Master's degree.

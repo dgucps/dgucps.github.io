@@ -1,9 +1,18 @@
+
+- id: 10.1016/j.jpdc.2024.104968
+  date: 2024-12-1
+  image: images/Publications/jpdc.jpg
+
+- id: 10.1007/s12652-018-0943-8
+  date: 2024-2-1
+  image: images/Publications/jaihc.png
+
 - id: 10.1145/3646549
   date: 2024-2-17
   image: images/Publications/tomacs_icon.jpeg
 
 - id: 10.1109/ACCESS.2023.3337832
-  date: 2024-11-30
+  date: 2023-11-30
   image: images/Publications/ieee_access.jpeg
 
 - id: 10.1109/ACCESS.2023.3317283
@@ -64,8 +73,7 @@
   image: images/Publications/aspdac_icon.png
 
 - id: 10.1007/978-981-13-2853-4_5
-- id: 10.1007/s12652-018-0943-8
-  image: images/Publications/jaihc.png
+
 
 - id: 10.1007/978-981-10-7605-3_121
 
@@ -91,7 +99,6 @@
     - Kyung Min Seo
     - Moon Gi Seok
     - Tag Gon Kim
-
 
 
 

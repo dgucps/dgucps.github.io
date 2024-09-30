@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 5
+  order: 4
   tooltip: Musings and miscellany
 ---
 
@@ -17,3 +17,4 @@ nav:
 
 {% include search-info.html %}
 
+{% include list.html data="posts" component="post-excerpt" %}
