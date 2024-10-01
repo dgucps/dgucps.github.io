@@ -1,14 +1,11 @@
 # citation metadata for the template itself
 
-title: "Lab Website Template"
+title: "AI-CPS Lab @ Dongguk University "
 version: 1.2.2
 date-released: 2024-06-05
-url: "https://github.com/greenelab/lab-website-template"
+url: "https://dgucps.github.io"
 authors:
-  - family-names: "Rubinetti"
-    given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-4655-3773"
-  - family-names: "Greene"
-    given-names: "Casey"
-    orcid: "https://orcid.org/0000-0001-8713-9213"
+  - family-names: "Seok"
+    given-names: "Moon Gi"
+    orcid: "https://orcid.org/0000-0002-8159-9910"
 cff-version: 1.2.0
