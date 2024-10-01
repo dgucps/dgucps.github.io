@@ -12,7 +12,8 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: master" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|master$)" %}
 
 {% include section.html background="images/black_background.jpeg" dark=true %}
 
