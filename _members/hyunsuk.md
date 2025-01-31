@@ -1,7 +1,7 @@
 ---
 name: hyunseok Oh (오현석)
 image: images/Members/hyunseok.png
-role: undergrad
+role: bsms
 aliases:
   - HyunSeok
 links:
@@ -15,5 +15,5 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea
+- Undergraduate student at Dongguk University, Republic of Korea (학석사연계)
 

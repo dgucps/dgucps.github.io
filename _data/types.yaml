@@ -18,6 +18,10 @@ master:
   icon: fa-solid fa-graduation-cap
   description: Master's Student
 
+bsms:
+  icon: fa-solid fa-graduation-cap
+  description: B.S./M.S. Integrated Program
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
