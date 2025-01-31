@@ -15,4 +15,6 @@ nav:
 
 ## More
 
+<!--
 {% include list.html component="card" data="studies" filters="group: " style="small" %}
+-->
