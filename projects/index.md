@@ -22,4 +22,15 @@ nav:
 
 - IoT 센서 네트워크 가상화를 이용한 250mm CCV 디지털 트윈 개발, (주) LS 전선, 21.07-22.06
 - 디지털 트윈 기반 가상 센서 모델 합성 및 지능적인 파라미터 최적화 연구, (주) 현대자동차, 20.10-21.04
-- 하이브리드 M&S 엔진 및 모델학습 알고리즘 라이브러리 개발, (주) 아인스 S&C, 18.12-19.4
+- 하이브리드 M&S 엔진 및 모델학습 알고리즘 라이브러리 개발, (주) 아인스 S&C, 18.12-19.04
+
+## Featured
+
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
+
