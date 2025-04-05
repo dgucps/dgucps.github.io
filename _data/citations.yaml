@@ -134,22 +134,6 @@
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12652?as=webp
   plugin: sources.py
   file: sources.yaml
-- id: 10.1145/3646549
-  title: Hyperparameter Tuning with Gaussian Processes for Optimal Abstraction Control
-    in Simulation-based Optimization of Smart Semiconductor Manufacturing Systems
-  authors:
-  - Moon Gi Seok
-  - Wen Jun Tan
-  - Boyi Su
-  - Wentong Cai
-  - Jisu Kwon
-  - Seon Han Choi
-  publisher: ACM Transactions on Modeling and Computer Simulation
-  date: '2024-02-17'
-  link: https://doi.org/g5934w
-  image: images/Publications/tomacs_icon.jpeg
-  plugin: sources.py
-  file: sources.yaml
 - id: 10.1109/ACCESS.2023.3337832
   title: Genetic-Based Two Granularity Ordering Methods for Multiple Workflow Scheduling
   authors:
