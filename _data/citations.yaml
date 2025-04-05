@@ -30,19 +30,6 @@
   orcid: 0000-0002-8159-9910
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/ACCESS.2023.3337832
-  title: Genetic-Based Two Granularity Ordering Methods for Multiple Workflow Scheduling
-  authors:
-  - Feng Li
-  - Wen Jun Tan
-  - Moon Gi Seok
-  - Wentong Cai
-  publisher: IEEE Access
-  date: '2024-01-01'
-  link: https://doi.org/gthr6j
-  orcid: 0000-0002-8159-9910
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3573900.3591112
   title: Automatic Model Generation and Data Assimilation Framework for Cyber-Physical
     Production Systems
@@ -52,6 +39,7 @@
   - Wentong Cai
   publisher: ACM SIGSIM Conference on Principles of Advanced Discrete Simulation
   date: '2023-06-21'
+  image: images/Publications/pads_icon.png
   link: https://doi.org/mgkw
   orcid: 0000-0002-8159-9910
   plugin: orcid.py
@@ -66,18 +54,8 @@
   - Daejin Park
   publisher: IEEE Transactions on Industrial Informatics
   date: '2023-04-01'
+  image: https://www.ieee-ies.org/images/files/tii/tii-cover.png?v=2021
   link: https://doi.org/gr75ht
-  orcid: 0000-0002-8159-9910
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/ACCESS.2023.3317283
-  title: Practical Simulation Budget Allocation for Ranked Subset Partitioning
-  authors:
-  - Moon Gi Seok
-  - Seon Han Choi
-  publisher: IEEE Access
-  date: '2023-01-01'
-  link: https://doi.org/gthr5k
   orcid: 0000-0002-8159-9910
   plugin: orcid.py
   file: orcid.yaml
@@ -187,33 +165,6 @@
   image: images/Publications/ieee_access.jpeg
   plugin: sources.py
   file: sources.yaml
-- id: 10.1145/3573900.3591112
-  title: Automatic Model Generation and Data Assimilation Framework for Cyber-Physical
-    Production Systems
-  authors:
-  - Wen Jun Tan
-  - Moon Gi Seok
-  - Wentong Cai
-  publisher: ACM SIGSIM Conference on Principles of Advanced Discrete Simulation
-  date: '2023-06-21'
-  link: https://doi.org/mgkw
-  image: images/Publications/pads_icon.png
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1109/TII.2022.3200598
-  title: Digital-Twin Consistency Checking Based on Observed Timed Events With Unobservable
-    Transitions in Smart Manufacturing
-  authors:
-  - Moon Gi Seok
-  - Wen Jun Tan
-  - Wentong Cai
-  - Daejin Park
-  publisher: IEEE Transactions on Industrial Informatics
-  date: '2023-04-01'
-  link: https://doi.org/gr75ht
-  image: https://www.ieee-ies.org/images/files/tii/tii-cover.png?v=2021
-  plugin: sources.py
-  file: sources.yaml
 - id: 10.1109/ISPACS57703.2022.10082830
   title: Neural Network-based Approximate Quality Prediction for Parameter Exploration
     in Industrial Manufacturing
@@ -226,21 +177,6 @@
   date: '2022-11-22'
   link: https://doi.org/gr75hv
   image: images/Publications/ieee_icon.png
-  plugin: sources.py
-  file: sources.yaml
-- id: 10.1145/3518997.3531024
-  title: Hyperparameter Tunning in Simulation-based Optimization for Adaptive Digital-Twin
-    Abstraction Control of Smart Manufacturing System
-  authors:
-  - Moon Gi Seok
-  - Wen Jun Tan
-  - Boyi Su
-  - Wentong Cai
-  publisher: Proceedings of the 2022 ACM SIGSIM Conference on Principles of Advanced
-    Discrete Simulation
-  date: '2022-06-08'
-  link: https://doi.org/gthr5m
-  image: images/Publications/pads_icon.png
   plugin: sources.py
   file: sources.yaml
 - id: https://dx.doi.org/10.2139/ssrn.4072423
