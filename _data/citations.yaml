@@ -122,6 +122,20 @@
   orcid: 0000-0002-8159-9910
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1016/j.jpdc.2024.104968
+  title: Clustering-based multi-objective optimization considering fairness for multi-workflow
+    scheduling on clouds
+  authors:
+  - Feng Li
+  - Wen Jun Tan
+  - Moon Gi Seok
+  - Wentong Cai
+  publisher: Journal of Parallel and Distributed Computing
+  date: '2024-12-01'
+  link: https://doi.org/g59332
+  image: images/Publications/jpdc.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1007/s12652-018-0943-8
   title: A novel multi-level evaluation approach for human-coupled IoT applications
   authors:
@@ -131,6 +145,22 @@
   date: '2024-02-01'
   link: https://doi.org/gthr5z
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12652?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3646549
+  title: Hyperparameter Tuning with Gaussian Processes for Optimal Abstraction Control
+    in Simulation-based Optimization of Smart Semiconductor Manufacturing Systems
+  authors:
+  - Moon Gi Seok
+  - Wen Jun Tan
+  - Boyi Su
+  - Wentong Cai
+  - Jisu Kwon
+  - Seon Han Choi
+  publisher: ACM Transactions on Modeling and Computer Simulation
+  date: '2024-02-17'
+  link: https://doi.org/g5934w
+  image: images/Publications/tomacs_icon.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/ACCESS.2023.3337832
