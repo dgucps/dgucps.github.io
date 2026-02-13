@@ -1,102 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.3390/math14020213
+- id: doi:10.3390/math14020213
   title: Two-Stage Genetic-Based Optimization for Resource Provisioning and Scheduling
     of Multiple Workflows on the Cloud Under Resource Constraints
   authors:
   - Feng Li
   - Wen Jun Tan
-  - Moon Gi Seok
+  - Moongi Seok
   - Wentong Cai
   publisher: Mathematics
-  date: '2026-01-15'
-  link: https://doi.org/10.3390/math14020213
-  image: images/Publications/2025/mdpi-mathematics-logo.svg
-  plugin: sources.py
-  file: sources.yaml
-
-- id: 10.1109/metacom65502.2025.00027
-  title: Efficient Waste Collection via Edge Perception and Optimized Mobile Routing
-  authors:
-  - Yunseon Lee
-  - Myeonghyeon Lee
-  - Kimun Park
-  - Dahun Kwon
-  - Moon Gi Seok
-  publisher: 2025 International Conference on Metaverse Computing, Networking and Applications (MetaCom)
-  date: '2025-08-27'
-  link: https://ieeexplore.ieee.org/document/11190132/
-  image: images/Publications/2025/metacom-2025-poster.jpg
-
-- id: icce-asia-2025-hybrid
-  title: Hybrid Optimization-Rule Framework for Real-Time Job Shop Co-Scheduling
-  authors:
-  - Doyoung Kim
-  - Woojin Jun
-  - KyeongMin Yeom
-  - Moon Gi Seok
-  publisher: The 10th International Conference on Consumer Electronics Asia (ICCE-Asia)
-  date: '2025-01-01'
-  image: images/Publications/2025/conference-icce-asia.png
-  buttons:
-  - type: source
-    icon: fa-solid fa-file-pdf
-    text: PDF
-    tooltip: PDF
-    link: /2025/papers/icce-asia-2025-hybrid-optimization-rule-framework.pdf
-
-- id: icce-asia-2025-federated
-  title: 'Mobility-Aware Federated Offloading via Reinforcement Learning: Reliable
-    and Energy-Fair Edge Intelligence'
-  authors:
-  - Woojin Jun
-  - Doyoung Kim
-  - Moon Gi Seok
-  publisher: The 10th International Conference on Consumer Electronics Asia (ICCE-Asia)
-  date: '2025-01-01'
-  image: images/Publications/2025/conference-icce-asia.png
-  buttons:
-  - type: source
-    icon: fa-solid fa-file-pdf
-    text: PDF
-    tooltip: PDF
-    link: /2025/papers/icce-asia-2025-mobility-aware-federated-offloading.pdf
-
-- id: isis-2025-orbslam
-  title: Learning Depth Fusion Weights in ORB-SLAM via Neural Prediction of Geometric
-    Reliability
-  authors:
-  - Hyunseok Oh
-  - Dahun Kwon
-  - Kimun Park
-  - Moon Gi Seok
-  publisher: ISIS 2025
-  date: '2025-01-01'
-  image: images/Publications/2025/conference-isis.png
-  buttons:
-  - type: source
-    icon: fa-solid fa-file-pdf
-    text: PDF
-    tooltip: PDF
-    link: /2025/papers/learning-depth-fusion-weights-orbslam-neural-prediction.pdf
-
-- id: isis-2025-fall-detection
-  title: Distributed Fall Detection via Temporal Signatures and Overlap-Aware Bidding
-    in Multi-Camera Edge Systems
-  authors:
-  - Jun Young Im
-  - Seon Woo Ok
-  - Moon Gi Seok
-  publisher: ISIS 2025
-  date: '2025-01-01'
-  image: images/Publications/2025/conference-isis.png
-  buttons:
-  - type: source
-    icon: fa-solid fa-file-pdf
-    text: PDF
-    tooltip: PDF
-    link: /2025/papers/isis-2025-distributed-fall-detection.pdf
-
+  date: '2026-01-06'
+  link: https://doi.org/hbpf4t
+  orcid: 0000-0002-8159-9910
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3646549
   title: Hyperparameter Tuning with Gaussian Processes for Optimal Abstraction Control
     in Simulation-based Optimization of Smart Semiconductor Manufacturing Systems
@@ -219,6 +136,19 @@
   orcid: 0000-0002-8159-9910
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.3390/math14020213
+  title: Two-Stage Genetic-Based Optimization for Resource Provisioning and Scheduling
+    of Multiple Workflows on the Cloud Under Resource Constraints
+  authors:
+  - Feng Li
+  - Wen Jun Tan
+  - Moongi Seok
+  - Wentong Cai
+  publisher: Mathematics
+  date: '2026-01-15'
+  link: https://doi.org/hbpf4t
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1016/j.jpdc.2024.104968
   title: Clustering-based multi-objective optimization considering fairness for multi-workflow
     scheduling on clouds
@@ -400,7 +330,7 @@
   - Moon Gi Seok
   - Daejin Park
   publisher: Journal of Information Processing Systems
-  date: '2021-02-28'
+  date: '2021-01-01'
   link: https://doi.org/gthr5p
   image: http://koreascience.or.kr/journal/E1JBB0/v16n6/cover/thumb.image
   plugin: sources.py
@@ -468,7 +398,7 @@
   - Moon Gi Seok
   - Daejin Park
   publisher: Journal of Information Processing Systems
-  date: '2020-12-31'
+  date: '2020-01-01'
   link: https://doi.org/gthr5t
   plugin: sources.py
   file: sources.yaml
