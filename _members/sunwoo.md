@@ -1,7 +1,7 @@
 ---
 name: Sunwoo Ok (옥선우)
 image: images/Members/sunwoo.png
-role: bsms
+role: master
 aliases:
   - SunWoo
 links:
@@ -14,4 +14,4 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea (학석사연계)
+- Master's student at Dongguk University, Republic of Korea

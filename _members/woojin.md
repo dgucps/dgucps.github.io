@@ -14,4 +14,4 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea
+- Master's student at Dongguk University, Republic of Korea

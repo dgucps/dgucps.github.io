@@ -1,7 +1,7 @@
 ---
 name: MyungHyun Lee (이명현)
 image: images/Members/myunghyun.png
-role: bsms
+role: master
 aliases:
   - MyungHyun
 links:
@@ -15,5 +15,5 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea (학석사 연계)
+- Master's student at Dongguk University, Republic of Korea
 

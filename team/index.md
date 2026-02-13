@@ -8,6 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 :bell: &nbsp; We just opened our lab this year, and we look forward to creative and challenging students' applications. 
+Current lab members: 10 students (11 including PI).
+
 
 {% include section.html %}
 

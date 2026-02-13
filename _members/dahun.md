@@ -1,7 +1,7 @@
 ---
 name: DaHun Kwon (권다훈)
 image: images/Members/dahun.png
-role: bsms
+role: master
 aliases:
   - DaHun
 links:
@@ -16,4 +16,4 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea (학석사연계)
+- Master's student at Dongguk University, Republic of Korea

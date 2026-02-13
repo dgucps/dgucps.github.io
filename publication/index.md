@@ -8,14 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 ## Contents 
-- [Submitted](#submitted)
 - [International Papers](#international-works)
 - [Domestic Papers](#domestic-works)
-
-## <a id="submitted"></a>Submitted
-
-- [Revision] Feng Li, Wen Jun Tan, Wentong Cai, Moon Gi Seok, "“Two-Stage Genetic-Based Optimization for Resource Provisioning and Scheduling of
-Multiple Workflows on the Cloud under Resource Constraints”", **Simulation Modelling Practice and Theory**.
 
 ## <a id="international-works"></a>International Papers
 

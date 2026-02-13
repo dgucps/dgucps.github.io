@@ -1,9 +1,9 @@
 ---
 name: Yunsun Lee (이윤선)
 image: images/Members/yunsun.png
-role: bsms
+role: master
 aliases:
-  - bsms
+  - YunSun
 links:
   mail: dldbstjs99@naver.com
 ---
@@ -16,4 +16,4 @@ links:
 
 ## Career
 
-- Undergraduate student at Dongguk University, Republic of Korea (학석사연계)
+- Master's student at Dongguk University, Republic of Korea
