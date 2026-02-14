@@ -1,6 +1,56 @@
 
 - id: 10.3390/math14020213
   date: 2026-1-15
+  image: images/Publications/2025/mdpi-mathematics-logo.svg
+
+- title: Hybrid Optimization-Rule Framework for Real-Time Job Shop Co-Scheduling
+  authors:
+    - Doyoung Kim
+    - Woojin Jun
+    - KyeongMin Yeom
+    - Moon Gi Seok
+  publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
+  date: 2025-11-04
+  image: images/Publications/2025/conference-icce-asia.png
+
+- title: "Mobility-Aware Federated Offloading via Reinforcement Learning: Reliable and Energy-Fair Edge Intelligence"
+  authors:
+    - Woojin Jun
+    - Doyoung Kim
+    - Moon Gi Seok
+  publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
+  date: 2025-11-04
+  image: images/Publications/2025/conference-icce-asia.png
+
+- title: Distributed Fall Detection via Temporal Signatures and Overlap-Aware Bidding in Multi-Camera Edge Systems
+  authors:
+    - Jun Young Im
+    - Seon Woo Ok
+    - Moon Gi Seok
+  publisher: The 26th International Symposium on Advanced Intelligent Systems (ISIS 2025)
+  date: 2025-11-06
+  image: images/Publications/2025/conference-isis.png
+
+- title: Learning Depth Fusion Weights in ORB-SLAM via Neural Prediction of Geometric Reliability
+  authors:
+    - Hyunseok Oh
+    - Dahun Kwon
+    - Kimun Park
+    - Moon Gi Seok
+  publisher: The 26th International Symposium on Advanced Intelligent Systems (ISIS 2025)
+  date: 2025-11-06
+  image: images/Publications/2025/conference-isis.png
+
+- title: Efficient Waste Collection via Edge Perception and Optimized Mobile Routing
+  authors:
+    - Yunseon Lee
+    - Myeonghyeon Lee
+    - Kimun Park
+    - Dahun Kwon
+    - Moon Gi Seok
+  publisher: IEEE MetaCom 2025
+  date: 2025-08-27
+  image: images/Publications/2025/conference-metacom.jpg
 
 - id: 10.1016/j.jpdc.2024.104968
   date: 2024-12-1
@@ -31,9 +81,6 @@
 
 - id: 10.1109/ISPACS57703.2022.10082830
   image: images/Publications/ieee_icon.png
-
-- id: 10.1145/3518997.3531024
-  image: images/Publications/pads_icon.png
 
 - id: 10.1145/3518997.3531024
   image: images/Publications/pads_icon.png
