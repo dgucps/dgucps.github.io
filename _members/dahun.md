@@ -1,6 +1,6 @@
 ---
 name: DaHun Kwon (권다훈)
-image: images/Members/dahun.png
+image: images/Members/dahun.jpeg
 role: master
 aliases:
   - DaHun

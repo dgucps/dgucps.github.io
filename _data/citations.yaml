@@ -23,6 +23,7 @@
   publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
   date: '2025-11-04'
   image: images/Publications/2025/conference-icce-asia.png
+  link: 2025/papers/icce-asia-2025-hybrid-optimization-rule-framework.pdf
   plugin: sources.py
   file: sources.yaml
 - title: 'Mobility-Aware Federated Offloading via Reinforcement Learning: Reliable
@@ -34,6 +35,7 @@
   publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
   date: '2025-11-04'
   image: images/Publications/2025/conference-icce-asia.png
+  link: 2025/papers/icce-asia-2025-mobility-aware-federated-offloading.pdf
   plugin: sources.py
   file: sources.yaml
 - title: Distributed Fall Detection via Temporal Signatures and Overlap-Aware Bidding
@@ -46,6 +48,7 @@
     2025)
   date: '2025-11-06'
   image: images/Publications/2025/conference-isis.png
+  link: 2025/papers/isis-2025-distributed-fall-detection.pdf
   plugin: sources.py
   file: sources.yaml
 - title: Learning Depth Fusion Weights in ORB-SLAM via Neural Prediction of Geometric
@@ -59,6 +62,7 @@
     2025)
   date: '2025-11-06'
   image: images/Publications/2025/conference-isis.png
+  link: 2025/papers/learning-depth-fusion-weights-orbslam-neural-prediction.pdf
   plugin: sources.py
   file: sources.yaml
 - title: Efficient Waste Collection via Edge Perception and Optimized Mobile Routing
@@ -70,7 +74,8 @@
   - Moon Gi Seok
   publisher: IEEE MetaCom 2025
   date: '2025-08-27'
-  image: images/Publications/2025/conference-metacom.jpg
+  image: images/Publications/2025/metacom-2025-poster.jpg
+  link: https://ieeexplore.ieee.org/abstract/document/11190132
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.jpdc.2024.104968

@@ -1,6 +1,6 @@
 ---
 name: Gimoon Park (박기문)
-image: images/Members/gimoon.png
+image: images/Members/gimoon.jpeg
 role: master
 aliases:
   - GiMoon

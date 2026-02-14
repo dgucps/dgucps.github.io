@@ -12,6 +12,7 @@
   publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
   date: 2025-11-04
   image: images/Publications/2025/conference-icce-asia.png
+  link: 2025/papers/icce-asia-2025-hybrid-optimization-rule-framework.pdf
 
 - title: "Mobility-Aware Federated Offloading via Reinforcement Learning: Reliable and Energy-Fair Edge Intelligence"
   authors:
@@ -21,6 +22,7 @@
   publisher: The 10th International Conference on Consumer Electronics (ICCE) Asia
   date: 2025-11-04
   image: images/Publications/2025/conference-icce-asia.png
+  link: 2025/papers/icce-asia-2025-mobility-aware-federated-offloading.pdf
 
 - title: Distributed Fall Detection via Temporal Signatures and Overlap-Aware Bidding in Multi-Camera Edge Systems
   authors:
@@ -30,6 +32,7 @@
   publisher: The 26th International Symposium on Advanced Intelligent Systems (ISIS 2025)
   date: 2025-11-06
   image: images/Publications/2025/conference-isis.png
+  link: 2025/papers/isis-2025-distributed-fall-detection.pdf
 
 - title: Learning Depth Fusion Weights in ORB-SLAM via Neural Prediction of Geometric Reliability
   authors:
@@ -40,6 +43,7 @@
   publisher: The 26th International Symposium on Advanced Intelligent Systems (ISIS 2025)
   date: 2025-11-06
   image: images/Publications/2025/conference-isis.png
+  link: 2025/papers/learning-depth-fusion-weights-orbslam-neural-prediction.pdf
 
 - title: Efficient Waste Collection via Edge Perception and Optimized Mobile Routing
   authors:
@@ -50,7 +54,8 @@
     - Moon Gi Seok
   publisher: IEEE MetaCom 2025
   date: 2025-08-27
-  image: images/Publications/2025/conference-metacom.jpg
+  image: images/Publications/2025/metacom-2025-poster.jpg
+  link: https://ieeexplore.ieee.org/abstract/document/11190132
 
 - id: 10.1016/j.jpdc.2024.104968
   date: 2024-12-1

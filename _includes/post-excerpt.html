@@ -1,4 +1,6 @@
-{% if include.lookup %}
+{% if include.post %}
+  {% assign post = include.post %}
+{% elsif include.lookup %}
   {% assign post = site.posts 
     | where_exp: "post", "post.slug == include.lookup"
     | first
@@ -47,13 +49,19 @@
         | default: ""
         | strip_html
       %}
+      {% if include.compact %}
+        {% assign max_words = include.max_words | default: 16 %}
+        {% assign excerpt = excerpt | truncatewords: max_words %}
+      {% endif %}
       {% assign search = post.content
         | strip_newlines
         | regex_strip
       %}
-      <p data-search="{{ search }}">
-        {{ excerpt }}
-      </p>
+      {% unless include.hide_excerpt %}
+        <p data-search="{{ search }}">
+          {{ excerpt }}
+        </p>
+      {% endunless %}
     </div>
   </div>
 </div>

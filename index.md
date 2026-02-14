@@ -24,8 +24,8 @@ Key research pursuits in our lab include:
 
 # LATEST NEWS
 
-{% for post in site.posts limit:3 %}
-{% include post-excerpt.html post=post %}
+{% for post in site.posts limit:5 %}
+{% include post-excerpt.html post=post compact=true max_words=14 hide_excerpt=true %}
 {% endfor %}
 
 <!--
@@ -35,4 +35,3 @@ Key research pursuits in our lab include:
 
 {% include post-excerpt.html lookup="23-young-scientist" %}
 -->
-

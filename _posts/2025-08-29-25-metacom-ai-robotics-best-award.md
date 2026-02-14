@@ -13,13 +13,10 @@ tags:
 
 ## 수상 사진
 {% include figure.html image="2025/metacom_2025_best_award.png" width="100%" %}
+{% include figure.html image="2025/metacom_2025_certificate.jpeg" width="50%" %}
 
 ## 참여 연구원
-- 박기문
-- 이윤선
-- 이명현
-- 권다훈
-- 석문기
+박기문, 이윤선, 이명현, 권다훈, 석문기
 
 ## 데모 영상
 - https://youtu.be/q9y79sXLsdw

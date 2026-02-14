@@ -1,6 +1,6 @@
 ---
 name: Yunsun Lee (이윤선)
-image: images/Members/yunsun.png
+image: images/Members/yunsun.jpeg
 role: master
 aliases:
   - YunSun
