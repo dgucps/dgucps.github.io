@@ -34,5 +34,10 @@ tags:
 {% include figure.html image="2026/CO-SHOW/co-show-09.png" %}
 {% include figure.html image="2026/CO-SHOW/co-show-10.jpeg" %}
 {% include figure.html image="2026/CO-SHOW/co-show-11.jpeg" %}
+{% include figure.html image="2026/CO-SHOW/co-show-12.jpg" %}
 {% endcapture %}
 {% include grid.html style="square" content=content %}
+
+## 포스터
+- [디지털 트윈 포스터 (PDF)]({{ "2026/CO-SHOW/co-show-poster-digital-twin.pdf" | relative_url }})
+- [시각화 포스터 (PDF)]({{ "2026/CO-SHOW/co-show-poster-visualization.pdf" | relative_url }})

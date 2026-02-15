@@ -1,6 +1,6 @@
 ---
 name: Minseok Park (박민석)
-image: images/Members/minseok.png
+image: images/Members/minseok.jpeg
 role: master
 aliases:
   - MinSeok

@@ -1,6 +1,6 @@
 ---
 name: Junyoung Im (임준영)
-image:
+image: images/Members/junyoung.jpeg
 role: master
 aliases:
   - JunYoung
