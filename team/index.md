@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 :bell: &nbsp; We just opened our lab this year, and we look forward to creative and challenging students' applications. 
-Current lab members: 10 students (11 including PI).
+Current lab members: 11 students (12 including PI).
 
 
 {% include section.html %}
@@ -27,4 +27,3 @@ Current lab members: 10 students (11 including PI).
 - Prof. Wentong Cai, PDCL lab. Nanyang Technological University, Singapore.
 - Prof. Hessam S. Sarjoughian, ACIMS, Arizona State University, U.S.
 - Prof. Daejin Park, AI-SoC lab. Kyungpook National University, Korea. 
-
