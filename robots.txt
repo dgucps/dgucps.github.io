@@ -1,1 +1,1 @@
-Sitemap: https://dgucps.github.io/sitemap.xml
+Sitemap: https://dgucps.dongguk.edu/sitemap.xml
