@@ -2,6 +2,11 @@
     Accelerators
   authors:
   - Jun Young Im
+  - Seonwoo Ok
+  - Dahun Kwon
+  - Hyunseok Oh
+  - Eunsoo So
+  - Jeongmin Hwang
   - Moon Gi Seok
   publisher: Design, Automation and Test in Europe (DATE 2027)
   date: '2027-03-22'
@@ -11,9 +16,12 @@
 - title: 'NoC-TM: Packetized Tsetlin Machine Inference with Bounded Clause Fan-In'
   authors:
   - Hyunseok Oh
-  - Moon Gi Seok
+  - Seonwoo Ok
+  - Dahun Kwon
+  - Jun Young Im
   - Junhyeong Lim
   - Jinmo Kwon
+  - Moon Gi Seok
   publisher: Design, Automation and Test in Europe (DATE 2027)
   date: '2027-03-22'
   description: '**Accepted, to appear.** (BK 21 및 정보과학회 우수학술대회)'
