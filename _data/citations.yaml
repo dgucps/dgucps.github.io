@@ -15,7 +15,6 @@
   description: "**Accepted, to appear.** (BK 21 \uBC0F \uC815\uBCF4\uACFC\uD559\uD68C\
     \ \uC6B0\uC218\uD559\uC220\uB300\uD68C)"
   image: images/Publications/2027/date-2027-logo.png
-  link: https://www.date-conference.com/
   plugin: sources.py
   file: sources.yaml
 - title: 'NoC-TM: Packetized Tsetlin Machine Inference with Bounded Clause Fan-In'
@@ -32,7 +31,6 @@
   description: "**Accepted, to appear.** (BK 21 \uBC0F \uC815\uBCF4\uACFC\uD559\uD68C\
     \ \uC6B0\uC218\uD559\uC220\uB300\uD68C)"
   image: images/Publications/2027/date-2027-logo.png
-  link: https://www.date-conference.com/
   plugin: sources.py
   file: sources.yaml
 - id: 10.3390/math14020213
