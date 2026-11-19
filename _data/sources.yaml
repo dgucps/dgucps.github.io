@@ -1,3 +1,24 @@
+- title: Condition-Guided Adapter Synthesis and Execution for Reconfigurable Edge
+    Accelerators
+  authors:
+  - Jun Young Im
+  - Moon Gi Seok
+  publisher: Design, Automation and Test in Europe (DATE 2027)
+  date: '2027-03-22'
+  description: '**Accepted, to appear.** (BK 21 및 정보과학회 우수학술대회)'
+  image: images/Publications/2027/date-2027-logo.png
+  link: https://www.date-conference.com/
+- title: 'NoC-TM: Packetized Tsetlin Machine Inference with Bounded Clause Fan-In'
+  authors:
+  - Hyunseok Oh
+  - Moon Gi Seok
+  - Junhyeong Lim
+  - Jinmo Kwon
+  publisher: Design, Automation and Test in Europe (DATE 2027)
+  date: '2027-03-22'
+  description: '**Accepted, to appear.** (BK 21 및 정보과학회 우수학술대회)'
+  image: images/Publications/2027/date-2027-logo.png
+  link: https://www.date-conference.com/
 
 - id: 10.3390/math14020213
   date: 2026-1-15
